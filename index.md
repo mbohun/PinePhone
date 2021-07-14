@@ -144,5 +144,5 @@ Linux plasma-mobile 5.12.11-1-MANJARO-ARM #1 SMP Wed Jun 16 13:18:32 UTC 2021 aa
 ```
 
 ### REFERENCES:
-- https://pine64.com/product/pinephone-beta-edition-with-convergence-package-linux-smartphone-open-for-preorder-soon/
+- [https://pine64.com/product/pinephone-beta-edition-with-convergence-package-linux-smartphone-open-for-preorder-soon/](https://pine64.com/product/pinephone-beta-edition-with-convergence-package-linux-smartphone-open-for-preorder-soon/)
 - TODO
