@@ -1,4 +1,5 @@
 ## Setting up your PinePhone in 128 EASY STEPS
+![Alt text](images/thumb/Screenshot_20210713_174637_main_50pc.jpg "PinePhone")
 
 #### `ssh`
 Get the phone's IP address; on the PinePhone open
