@@ -38,7 +38,7 @@ LOGO=manjarolinux
 ```
 The PinePhone is voluntering info that it runs Manjaro (Manjaro-ARM) Linux distro.
 - Manjaro Linux uses package manager: **`pacman`**
-- Manjaro `pacman` wiki: https://wiki.manjaro.org/index.php/Pacman_Overview
+- Manjaro `pacman` wiki: [https://wiki.manjaro.org/index.php/Pacman_Overview](https://wiki.manjaro.org/index.php/Pacman_Overview)
 
 #### `free -m`
 ```
