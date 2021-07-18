@@ -1,2 +1,2 @@
 # PinePhone
-PinePhone Linux Phone notes
+[PinePhone Linux Phone notes](https://mbohun.github.io/PinePhone/)
