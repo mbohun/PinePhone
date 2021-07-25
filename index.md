@@ -144,6 +144,14 @@ Linux plasma-mobile 5.12.11-1-MANJARO-ARM #1 SMP Wed Jun 16 13:18:32 UTC 2021 aa
 [Mon Jul  5 18:46:34 2021] Machine model: Pine64 PinePhone (1.2)
 ```
 
+### PROBLEMS
+##### modem does NOT re-init/re-start
+After that you can't use phone/SMS, until you restart. Known problem, investigating how to fix.
+```
+Modem (quectelqmi_0)
+IP configuration was unavailable
+```
+
 ### REFERENCES:
 - [https://pine64.com/product/pinephone-beta-edition-with-convergence-package-linux-smartphone-open-for-preorder-soon/](https://pine64.com/product/pinephone-beta-edition-with-convergence-package-linux-smartphone-open-for-preorder-soon/)
 - [https://wiki.pine64.org/wiki/PinePhone](https://wiki.pine64.org/wiki/PinePhone)
