@@ -159,4 +159,7 @@ IP configuration was unavailable
 - [postmarketOS](https://postmarketos.org/):
   - [https://postmarketos.org/blog/2020/06/15/pinephone-postmarketos-community-edition/](https://postmarketos.org/blog/2020/06/15/pinephone-postmarketos-community-edition/)
   - [https://gitlab.com/postmarketOS/pmbootstrap](https://gitlab.com/postmarketOS/pmbootstrap)
+- https://www.denx.de/wiki/U-Boot
+- https://f2fs.wiki.kernel.org/
+- https://genodians.org/nfeske/2020-12-10-pine-fun-warmup
 - TODO
